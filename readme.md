@@ -1,0 +1,1 @@
+Olá! Este projeto foi criado com o objetivo de estudar o HTML e o CSS.
