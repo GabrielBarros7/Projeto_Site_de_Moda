@@ -70,7 +70,7 @@ a:hover{
 }
 .sobre{
     display: inline-block;
-    background-image: url(/ProjetoFashion_inicio/imagens/bg_detalhe.png);
+    background-image: url(/imagens/bg_detalhe.png);
     background-position: right bottom;
     background-size: cover;
     color:white;
